@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { store } from "zustand";
 
 function App() {
   return (
